@@ -1,0 +1,6 @@
+{
+  "name": "IAdotPDF - Conversor para PDF/A",
+  "description": "Aplicativo para conversão rápida de arquivos para o padrão PDF/A de preservação digital com interface desktop de alto desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
